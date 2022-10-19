@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &geomariyo
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hrNfM-EAAAAJ&hl=en&oi=ao"
   email            : "mgalo@mit.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Mariya-Galochkina-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mgalo/"
   orcid            : "https://orcid.org/0000-0002-8245-7236"
   pinterest        :
   soundcloud       :
