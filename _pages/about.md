@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student and NSF Graduate Research Fellow in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu/) advised by Drs. [Anne Cohen](https://www2.whoi.edu/site/cohenlab/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I'm broadly interested in understanding how tropical oceans and coral reefs have responded to past climate variability. My research focuses on applying improved coral geochemical paleotemperature proxies to accurately reconstruct past ocean temperatures, as well as identifying the climatic factors that raise heat stress to a level that causes coral bleaching in the Caribbean. Through my research, I aim to develop a better understanding of coral reef thermal tolerance thresholds through time as well as revise predictions of 21st century coral reef survivorship, bleaching, and mortality across the Caribbean and other tropical basins. 
+I'm a third year PhD candidate and NSF Graduate Research Fellow in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu/) advised by Drs. [Anne Cohen](https://www2.whoi.edu/site/cohenlab/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I'm broadly interested in understanding how tropical oceans and coral reefs have responded to past and present climate variability. My research focuses on applying improved coral geochemical paleotemperature proxies to accurately reconstruct past ocean temperatures, as well as identifying the climatic factors that raise heat stress to a level that causes coral bleaching in the Caribbean. Through my research, I aim to develop a better understanding of coral reef thermal tolerance thresholds through time as well as revise predictions of 21st century coral reef survivorship, bleaching, and mortality across the Caribbean and other tropical basins. 
 
 I graduated from Rutgers University in 2020 with a degree in Geology and minors in Physics and Marine Science. At Rutgers, I conducted research on North Atlantic sea surface and thermocline temperature changes following the Miocene Climatic Optimum, advised by Drs. [Kenneth Miller](https://geology.rutgers.edu/people-directory/19-faculty/242-kenneth-g-miller) and [Maria Makarova](https://www.linkedin.com/in/maria-makarova-16741360).
 
-## This website is a work in progress. 
+## Updates
+
+**December 2023:** I presented a talk at the 2022 AGU Fall Meeting titled _Sr-U thermometry tracks ocean temperatures and corrects for Sr/Ca vital effects in a slow-growing Atlantic coral_
+**November 2023:** I attended the 27th session of the Conference of the Parties of the UNFCCC (COP27) as part of the inaugural [Ocean Pavilion](https://oceanpavilion-cop.org/).
+**October 2023:** I helped organize and presented a poster at the [2022 Graduate Climate Conference](https://graduateclimateconference.github.io/).
+
+
