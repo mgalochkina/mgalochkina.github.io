@@ -14,8 +14,11 @@ I graduated from Rutgers University in 2020 with a degree in Geology and minors 
 
 ## Updates
 **April 2023:** My undergraduate honors [thesis paper](https://doi.org/10.2113/gsjfr.53.2.143) has been published.
+
 **December 2022:** I presented a talk at the 2022 AGU Fall Meeting titled _Sr-U thermometry tracks ocean temperatures and corrects for Sr/Ca vital effects in a slow-growing Atlantic coral_.
+
 **November 2022:** I attended the 27th session of the Conference of the Parties of the UNFCCC (COP27) as part of the inaugural [Ocean Pavilion](https://oceanpavilion-cop.org/).
+
 **October 2022:** I helped organize and presented a poster at the [2022 Graduate Climate Conference](https://graduateclimateconference.github.io/).
 
 
