@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Manuscripts
-**Galochkina, M.**, Cohen, A. L., Oppo, D. W., Mollica, N., & Horton, F. Coral Sr-U thermometry tracks ocean temperature and reconciles Sr/Ca discrepancies caused by Rayleigh fractionation. (in review at _Paleoceanography and Paleoclimatology_)
 
-**Galochkina, M.**, Makarova, M., Miller, K., Browning, J., Keating, R., &; Wright, J. (2023). Multispecies planktonic and benthic foraminiferal stable isotopes from North Atlantic subtropical site 558: Thermocline intensification during the Mid-Miocene Climate Transition. _Journal of Foraminiferal Research_, 53(2), 143–156. https://doi.org/10.2113/gsjfr.53.2.143 
+**Galochkina, M.**, Cohen, A. L., Oppo, D. W., Mollica, N., & Horton, F. (2023). Coral Sr-U thermometry tracks ocean temperature and reconciles Sr/Ca discrepancies caused by Rayleigh fractionation. _Paleoceanography and Paleoclimatology_, 38, [https://doi.org/10.1029/2022PA004541](https://doi.org/10.1029/2022PA004541)
+
+**Galochkina, M.**, Makarova, M., Miller, K., Browning, J., Keating, R., &; Wright, J. (2023). Multispecies planktonic and benthic foraminiferal stable isotopes from North Atlantic subtropical site 558: Thermocline intensification during the Mid-Miocene Climate Transition. _Journal of Foraminiferal Research_, 53(2), 143–156. [https://doi.org/10.2113/gsjfr.53.2.143](https://doi.org/10.2113/gsjfr.53.2.143). 
 
 ## Presentations
 **Galochkina, M.**, Cohen, A.l., Oppo, D., Mollica, N.R., Horton, F., Sr-U thermometry captures ocean temperatures and corrects for Sr/Ca vital effects in a slow-growing Atlantic coral, Abstract PP36A-06, 2022 Fall Meeting, American Geophysical Union. [Talk]
