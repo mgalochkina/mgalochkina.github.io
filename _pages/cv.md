@@ -43,7 +43,9 @@ Fellowships
 
 Publications
 ======
-**Galochkina, M.**, Miller, K.G., Makarova, M., Browning, J.V., and Wright, J.D., _Multispecies planktonic and benthic foraminiferal stable isotopes from North Atlantic subtropical Site 558: Thermocline intensification during the Mid-Miocene Climate Transition_. Accepted to _Journal of Foraminiferal Research_
+**Galochkina, M.**, Cohen, A. L., Oppo, D. W., Mollica, N., & Horton, F. (2023). Coral Sr-U thermometry tracks ocean temperature and reconciles Sr/Ca discrepancies caused by Rayleigh fractionation. _Paleoceanography and Paleoclimatology_, 38, [https://doi.org/10.1029/2022PA004541](https://doi.org/10.1029/2022PA004541)
+
+**Galochkina, M.**, Makarova, M., Miller, K., Browning, J., Keating, R., &; Wright, J. (2023). Multispecies planktonic and benthic foraminiferal stable isotopes from North Atlantic subtropical site 558: Thermocline intensification during the Mid-Miocene Climate Transition. _Journal of Foraminiferal Research_, 53(2), 143–156. [https://doi.org/10.2113/gsjfr.53.2.143](https://doi.org/10.2113/gsjfr.53.2.143). 
 
 Selected Presentations
 ======
