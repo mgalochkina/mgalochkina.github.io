@@ -47,6 +47,28 @@ Publications
 
 **Galochkina, M.**, Makarova, M., Miller, K., Browning, J., Keating, R., &; Wright, J. (2023). Multispecies planktonic and benthic foraminiferal stable isotopes from North Atlantic subtropical site 558: Thermocline intensification during the Mid-Miocene Climate Transition. _Journal of Foraminiferal Research_, 53(2), 143–156. [https://doi.org/10.2113/gsjfr.53.2.143](https://doi.org/10.2113/gsjfr.53.2.143). 
 
+Service and leadership
+======
+* Graduate Climate Conference
+  * Conference co-chair (2023)
+  * Organizer (2022-present)
+* JP ASK
+  * Board Member (2021-present)
+  * Graduate mentor (2020-present)
+* JP-[SSF](https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/) Mentorship Program
+  * Graduate Mentor (2021-present)
+* WHOI Department of Geology and Geophysics Faculty Search
+  * Student Committee Member and Chair (2020-2021)
+* MIT [Mentor Advocate Partnership](https://ome.mit.edu/programs/mentor-advocate-partnership-map)
+  * Mentor (2020-2021)
+
+Fieldwork
+======
+* WHOI/TNC [Super Reefs](https://superreefs.whoi.edu/) Maui Fieldwork (June 2023)
+  * Underwater benthic surveying
+* R/V Tioga (July 2019)
+  * Introductory 1-day cruise for undergraduates to learn data collection and sampling methods with array of oceanographic instruments and technology
+
 Selected Presentations
 ======
 **Galochkina, M.**, Cohen, A.l., Oppo, D., Mollica, N.R., Horton, F., Sr-U thermometry captures ocean temperatures and corrects for Sr/Ca vital effects in a slow-growing Atlantic coral, Abstract PP36A-06, 2022 Fall Meeting, American Geophysical Union. [Talk] 
@@ -58,8 +80,3 @@ Selected Presentations
 **Galochkina, M.**, Levin, V., and Arroyo, I.G., New constraints on the upper mantle properties beneath Cordillera Talamanca. Talk given on January 14, 2019 at the Centroamerican School of Geology, San Jose, Costa Rica.
 
 **Galochkina, M.**, Miller, K.G., Makarova, M., Browning, J.V., and Wright, J.D., Miocene North Atlantic sea surface and thermocline temperature variations (20-8 Ma), Abstract PP13E-1371, 2018 Fall Meeting, American Geophysical Union. [Poster]
-
-Service and leadership
-======
-* Graduate Climate Conference Organizer and Session Chair (2022)
-* JP ASK Board Member and mentor (2021-present)
