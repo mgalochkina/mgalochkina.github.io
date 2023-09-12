@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geology, minors in Physics and Marine Sciences, Rutgers University, 2020
-* Ph.D in Oceanography/Climate Science, MIT-WHOI Joint Program, 2025 (expected)
+* B.S. in Geology, minors in Physics and Marine Sciences, Rutgers University, 2016 – 2020
+* Ph.D in Oceanography/Climate Science, MIT-WHOI Joint Program, 2020 – 2025 (expected)
 
 Work experience
 ======
@@ -64,6 +64,8 @@ Service and leadership
 
 Fieldwork
 ======
+* Curaçao Coral Coring Fieldwork (August 2023 - _chief scientist_)
+  * Collected 40 skeletal cores of _Orbicella faveolata_ 
 * WHOI/TNC [Super Reefs](https://superreefs.whoi.edu/) Maui Fieldwork (June 2023)
   * Underwater benthic surveying
 * R/V Tioga (July 2019)
