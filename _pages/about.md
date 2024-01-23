@@ -12,3 +12,22 @@ I'm a PhD candidate and NSF Graduate Research Fellow in the [MIT-WHOI Joint Prog
 
 I graduated from Rutgers University in 2020 with a degree in Geology and minors in Physics and Marine Science. At Rutgers, I conducted research on North Atlantic sea surface and thermocline temperature changes following the Miocene Climatic Optimum, advised by Drs. [Kenneth Miller](https://geology.rutgers.edu/people-directory/19-faculty/242-kenneth-g-miller) and [Maria Makarova](https://www.linkedin.com/in/maria-makarova-16741360).
 
+
+Updates
+------
+**November 2023:** After months of preparation and organization, the 17th annual [Graduate Climate Conference](https://graduateclimateconference.github.io/) was held at the Marine Biological Laboratory in Woods Hole, MA. This year, I served as one of three conference co-chairs and led the Abstracts committee.
+
+**September - October 2023:** I spent 4 weeks in Majuro, RMI conducting fieldwork as part of the [Super Reefs)[https://superreefs.whoi.edu/] project. I assisted in coral coring, benthic surveying, and the deployment of various oceanographic sensors, as well as coral nubbin collection for heat stress tests carried out by the [Palumbi Lab](https://palumbilab.stanford.edu/) at Stanford University.
+
+**August 2023:** I organized and led my first fieldwork campaign as Chief Scientist. With funding from a WHOI Ocean Ventures Fund, I spent 10 days in Curaçao conducting coral coring fieldwork with members of the Cohen Lab. We collected 41 cores from 4 sites on the leeward side of the island, which will be used to reconstruct a comprehensive coral bleaching history of the island.
+
+**July 2023:** The [first chapter](https://doi.org/10.1029/2022PA004541) of my PhD has been published.
+
+**April 2023:** My undergraduate honors [thesis paper](https://doi.org/10.2113/gsjfr.53.2.143) has been published.
+
+**December 2022:** I presented a talk at the 2022 AGU Fall Meeting titled _Sr-U thermometry tracks ocean temperatures and corrects for Sr/Ca vital effects in a slow-growing Atlantic coral_.
+
+**November 2022:** I attended the 27th session of the Conference of the Parties of the UNFCCC (COP27) as part of the inaugural [Ocean Pavilion](https://oceanpavilion-cop.org/).
+
+**October 2022:** I helped organize and presented a poster at the [2022 Graduate Climate Conference](https://graduateclimateconference.github.io/).
+![image](https://github.com/mgalochkina/mgalochkina.github.io/assets/70597511/2dd711a9-d2c7-48f9-8663-0c803c853273)
