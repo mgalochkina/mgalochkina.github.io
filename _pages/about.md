@@ -30,4 +30,4 @@ Updates
 **November 2022:** I attended the 27th session of the Conference of the Parties of the UNFCCC (COP27) as part of the inaugural [Ocean Pavilion](https://oceanpavilion-cop.org/).
 
 **October 2022:** I helped organize and presented a poster at the [2022 Graduate Climate Conference](https://graduateclimateconference.github.io/).
-![image](https://github.com/mgalochkina/mgalochkina.github.io/assets/70597511/2dd711a9-d2c7-48f9-8663-0c803c853273)
+
