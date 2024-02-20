@@ -17,7 +17,7 @@ Updates
 ------
 **November 2023:** After months of preparation and organization, the 17th annual [Graduate Climate Conference](https://graduateclimateconference.github.io/) was held at the Marine Biological Laboratory in Woods Hole, MA. This year, I served as one of three conference co-chairs and led the Abstracts committee.
 
-**September - October 2023:** I spent 4 weeks in Majuro, RMI conducting fieldwork as part of the [Super Reefs)[https://superreefs.whoi.edu/] project. I assisted in coral coring, benthic surveying, and the deployment of various oceanographic sensors, as well as coral nubbin collection for heat stress tests carried out by the [Palumbi Lab](https://palumbilab.stanford.edu/) at Stanford University.
+**September - October 2023:** I spent 4 weeks in Majuro, RMI conducting fieldwork as part of the [Super Reefs](https://superreefs.whoi.edu/) project. I assisted in coral coring, benthic surveying, and the deployment of various oceanographic sensors, as well as coral nubbin collection for heat stress tests carried out by the [Palumbi Lab](https://palumbilab.stanford.edu/) at Stanford University.
 
 **August 2023:** I organized and led my first fieldwork campaign as Chief Scientist. With funding from a WHOI Ocean Ventures Fund, I spent 10 days in Curaçao conducting coral coring fieldwork with members of the Cohen Lab. We collected 41 cores from 4 sites on the leeward side of the island, which will be used to reconstruct a comprehensive coral bleaching history of the island.
 
