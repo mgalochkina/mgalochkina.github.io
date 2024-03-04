@@ -15,6 +15,8 @@ I graduated from Rutgers University in 2020 with a degree in Geology and minors 
 
 Updates
 ------
+**February 2023:** I presented a poster at the 2024 Ocean Sciences Meeting titled _The contribution of climate variability to coral bleaching in the Caribbean_.
+
 **November 2023:** After months of preparation and organization, the 17th annual [Graduate Climate Conference](https://graduateclimateconference.github.io/) was held at the Marine Biological Laboratory in Woods Hole, MA. This year, I served as one of three conference co-chairs and led the Abstracts committee.
 
 **September - October 2023:** I spent 4 weeks in Majuro, RMI conducting fieldwork as part of the [Super Reefs](https://superreefs.whoi.edu/) project. I assisted in coral coring, benthic surveying, and the deployment of various oceanographic sensors, as well as coral nubbin collection for heat stress tests carried out by the [Palumbi Lab](https://palumbilab.stanford.edu/) at Stanford University.
