@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate and NSF Graduate Research Fellow in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu/) advised by Drs. [Anne Cohen](https://www2.whoi.edu/site/cohenlab/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I'm broadly interested in understanding how tropical oceans and coral reefs have responded to past and present climate variability. More specifically, my research explores the links between basin-scale marine heatwaves, the amplitude and spatial structure of localized heat anomalies, and the coral response to extreme heat across shallow water coral reefs. Through my research, I aim to develop a better understanding of coral reef thermal tolerance thresholds through time as well as revise predictions of 21st century coral reef survivorship, bleaching, and mortality across tropical basins.
+I'm a PhD candidate and NSF Graduate Research Fellow in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu/) advised by Drs. [Anne Cohen](https://www2.whoi.edu/site/cohenlab/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I'm broadly interested in understanding how tropical oceans and coral reefs have responded to past and present climate variability. More specifically, my research explores the links between global- and basin-scale modes of climate variability, the amplitude and spatial structure of localized heat anomalies, and the coral response to extreme heat across shallow water coral reefs. Through my research, I aim to develop a better understanding of _where_ and _when_ coral bleaching events occur in order to develop advance bleaching predictions to inform improved coral reef management strategies.
 
 I graduated from Rutgers University in 2020 with a degree in Geology and minors in Physics and Marine Science. At Rutgers, I conducted research on North Atlantic sea surface and thermocline temperature changes following the Miocene Climatic Optimum, advised by Drs. [Kenneth Miller](https://geology.rutgers.edu/people-directory/19-faculty/242-kenneth-g-miller) and [Maria Makarova](https://www.linkedin.com/in/maria-makarova-16741360).
 
 
 Updates
 ------
-**February 2023:** I presented a poster at the 2024 Ocean Sciences Meeting titled _The contribution of climate variability to coral bleaching in the Caribbean_.
+**July – August 2023:** I spent 2.5 weeks in Belize conducting fieldwork as part of the [Super Reefs](https://superreefs.whoi.edu/) project. I led the coral coring and instrument deployment operations. 
+
+**May 2023:** I helped facilitate the [Digital Reefs](https://digitalreefs.org/) User Trial Workshop in Honolulu, HI.
+
+**February 2024:** I presented a poster at the 2024 Ocean Sciences Meeting titled _The contribution of climate variability to coral bleaching in the Caribbean_.
 
 **November 2023:** After months of preparation and organization, the 17th annual [Graduate Climate Conference](https://graduateclimateconference.github.io/) was held at the Marine Biological Laboratory in Woods Hole, MA. This year, I served as one of three conference co-chairs and led the Abstracts committee.
 
@@ -29,7 +33,7 @@ Updates
 
 **December 2022:** I presented a talk at the 2022 AGU Fall Meeting titled _Sr-U thermometry tracks ocean temperatures and corrects for Sr/Ca vital effects in a slow-growing Atlantic coral_.
 
-**November 2022:** I attended the 27th session of the Conference of the Parties of the UNFCCC (COP27) as part of the inaugural [Ocean Pavilion](https://oceanpavilion-cop.org/).
+**November 2022:** I attended the 27th session of the Conference of the Parties of the UNFCCC (COP27) and helped run the inaugural [Ocean Pavilion](https://oceanpavilion-cop.org/).
 
 **October 2022:** I helped organize and presented a poster at the [2022 Graduate Climate Conference](https://graduateclimateconference.github.io/).
 
