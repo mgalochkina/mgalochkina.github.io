@@ -12,6 +12,7 @@ I'm a PhD candidate and NSF Graduate Research Fellow in the [MIT-WHOI Joint Prog
 
 I graduated from Rutgers University in 2020 with a degree in Geology and minors in Physics and Marine Science. At Rutgers, I conducted research on North Atlantic sea surface and thermocline temperature changes following the Miocene Climatic Optimum, advised by Drs. [Kenneth Miller](https://geology.rutgers.edu/people-directory/19-faculty/242-kenneth-g-miller) and [Maria Makarova](https://www.linkedin.com/in/maria-makarova-16741360).
 
+![Belize](/mgalochkina.github.io/images/coraldrilling-1.jpg)
 
 Updates
 ------
