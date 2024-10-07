@@ -15,9 +15,9 @@ I graduated from Rutgers University in 2020 with a degree in Geology and minors 
 
 Updates
 ------
-**July – August 2023:** I spent 2.5 weeks in Belize conducting fieldwork as part of the [Super Reefs](https://superreefs.whoi.edu/) project. I led the coral coring and instrument deployment operations. 
+**July – August 2024:** I spent 2.5 weeks in Belize conducting fieldwork as part of the [Super Reefs](https://superreefs.whoi.edu/) project. I led the coral coring and instrument deployment operations. 
 
-**May 2023:** I helped facilitate the [Digital Reefs](https://digitalreefs.org/) User Trial Workshop in Honolulu, HI.
+**May 2024:** I helped facilitate the [Digital Reefs](https://digitalreefs.org/) User Trial Workshop in Honolulu, HI.
 
 **February 2024:** I presented a poster at the 2024 Ocean Sciences Meeting titled _The contribution of climate variability to coral bleaching in the Caribbean_.
 
