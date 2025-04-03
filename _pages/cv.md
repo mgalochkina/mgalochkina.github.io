@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="{{ site.baseurl }}/assets/CV2025_03.pdf" width="100%" height="1000px"></iframe>
+[Click here to view my CV (PDF)](/assets/CV2025_03.pdf)
