@@ -16,7 +16,7 @@ I graduated from Rutgers University in 2020 with a degree in Geology and minors 
 
 Updates
 ------
-**April 2025:** As part of the MIT Science Policy Initiative's [Congressional Visit Days](https://mitspi.squarespace.com/cvd), I led and assisted meetings with Congressional offices on both sides of the aisle to advocate for continued federal funding for scientific research, with an emphasis on protecting funding for NSF and NOAA. 
+**March 2025:** As part of the MIT Science Policy Initiative's [Congressional Visit Days](https://mitspi.squarespace.com/cvd), I led and assisted meetings with Congressional offices on both sides of the aisle to advocate for continued federal funding for scientific research, with an emphasis on protecting funding for NSF and NOAA. 
 
 **December 2024:** I presented a poster at the 2024 AGU Fall Meeting titled _Leveraging climate variability to forecast coral bleaching months in advance_.
 
