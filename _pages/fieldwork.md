@@ -9,7 +9,6 @@ redirect_from:
 ---
 I've had the fortune of conducting fieldwork some incredible coral reefs across the Caribbean and Pacific in hopes of understanding a) when coral reefs bleached in the past and b) what hydrodynamic and atmospheric conditions cause temperatures to rise above coral bleaching thresholds. I promise that I'll update this page with some cool photos and reflections at some point.
 
-//////////////////////////////////////////
 Belize 2024 (July - August 2024)
 ======
 I spent 17 days in Belize conducting fieldwork as part of the Super Reefs project in collaboration with Stanford University and the Nature Conservancy.
