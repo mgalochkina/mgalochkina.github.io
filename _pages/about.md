@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate and [MathWorks](https://science.mit.edu/resource/mathworks-fellowship/)/NSF Graduate Research Fellow in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu/) advised by Drs. [Anne Cohen](https://www2.whoi.edu/site/cohenlab/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I'm broadly interested in understanding how tropical oceans and coral reefs have responded to past and present climate variability. More specifically, my research explores the links between global- and basin-scale modes of climate variability, the amplitude and spatial structure of localized heat anomalies, and the coral response to extreme heat across shallow water coral reefs. Through my research, I aim to develop a better understanding of _where_ and _when_ coral bleaching events occur in order to develop advance bleaching predictions to inform improved coral reef management strategies.
+I'm a PhD candidate and [MathWorks](https://science.mit.edu/resource/mathworks-fellowship/)/NSF Graduate Research Fellow in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu/) advised by Drs. [Anne Cohen](https://www2.whoi.edu/site/cohenlab/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I'm broadly interested in understanding how tropical oceans and coral reefs have responded to past and present climate variability. More specifically, my research explores the links between global- and basin-scale modes of climate variability, the amplitude and spatial structure of localized heat anomalies, and the coral response to extreme heat across shallow water coral reefs. I study this using a combination of proxy data (coral skeletal cores), observational data (including gridded satellite/reanalysis products and in situ sensor measurements), and modeling approaches (such as high-resolution 3-D hydrodynamic models). Through my research, I aim to develop a better understanding of _where_ and _when_ coral bleaching events occur in order to develop advance bleaching predictions to inform improved coral reef management strategies.
 
 I graduated from Rutgers University in 2020 with a degree in Geology and minors in Physics and Marine Science. At Rutgers, I conducted research on North Atlantic sea surface and thermocline temperature changes following the Miocene Climatic Optimum, advised by Drs. [Kenneth Miller](https://geology.rutgers.edu/people-directory/19-faculty/242-kenneth-g-miller) and [Maria Makarova](https://www.linkedin.com/in/maria-makarova-16741360).
 
@@ -16,6 +16,8 @@ I graduated from Rutgers University in 2020 with a degree in Geology and minors 
 
 Updates
 ------
+**June 2025:** I presented my work on an accurate early warning system for coral bleaching in the Southern Caribbean, informed by climate variability, at the  Association of Marine Laboratories of the Caribbean 2025 Meeting, where I received an award for best student oral presentation.
+
 **March 2025:** As part of the MIT Science Policy Initiative's [Congressional Visit Days](https://news.mit.edu/2025/mit-students-postdocs-explore-inner-workings-capitol-hill-0602), I led and assisted meetings with Congressional offices on both sides of the aisle to advocate for continued federal funding for scientific research, with an emphasis on protecting funding for NSF and NOAA. 
 
 **December 2024:** I presented a poster at the 2024 AGU Fall Meeting titled _Leveraging climate variability to forecast coral bleaching months in advance_.
