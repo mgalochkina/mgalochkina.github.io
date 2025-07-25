@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV (PDF) - Last updated March 2025](/files/CV2025_03.pdf)
+[Click here to view my CV (PDF) - Last updated June 2025](/files/MGalochkina_CV_Jun2025.pdf)
 
-<iframe src="/files/CV2025_03.pdf" width="100%" height="1000px"></iframe>
+<iframe src="/files/MGalochkina_CV_Jun2025.pdf" width="100%" height="1000px"></iframe>
