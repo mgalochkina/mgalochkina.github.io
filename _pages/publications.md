@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Manuscripts
 
-**Galochkina, M.**, Cohen, A. L., Oppo, D. W., & Ummenhofer, C. C. . _(in review)_ Leveraging climate modes to forecast coral bleaching months in advance. _in review at Science Advances_. 
+**Galochkina, M.**, Cohen, A. L., Oppo, D. W., & Ummenhofer, C. C. . _(in review)_ Leveraging climate modes to forecast coral bleaching months in advance. _in review at Nature Communications Earth and Environment_. 
 
 **Galochkina, M.**, Cohen, A. L., Oppo, D. W., Mollica, N., & Horton, F. (2023). Coral Sr-U thermometry tracks ocean temperature and reconciles Sr/Ca discrepancies caused by Rayleigh fractionation. _Paleoceanography and Paleoclimatology_, 38, [https://doi.org/10.1029/2022PA004541](https://doi.org/10.1029/2022PA004541)
 
